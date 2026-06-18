@@ -126,8 +126,7 @@ I leverage modern **AI-assisted coding tools** like GitHub Copilot, Claude, and 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshley&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anshley&theme=tokyonight&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=anshley0837-del&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
