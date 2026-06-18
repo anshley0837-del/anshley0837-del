@@ -125,15 +125,13 @@ I leverage modern **AI-assisted coding tools** like GitHub Copilot, Claude, and 
 
 ## 📊 GitHub Analytics
 
-D:\pD:\py_tuto\new.html
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshley&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshley&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshley&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
