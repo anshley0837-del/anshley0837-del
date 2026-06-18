@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshley&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/anshley?label=Followers&style=for-the-badge&color=ff69b4" alt="Followers" />
-  <a href="https://linkedin.com/in/anshley">
+  <a href="https://linkedin.com/in/Anuragsharma71">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:anshley@email.com">
